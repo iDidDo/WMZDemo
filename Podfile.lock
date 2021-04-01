@@ -1,16 +1,16 @@
 PODS:
-  - WMZPageController (1.3.3)
+  - WMZPageController (1.3.5)
 
 DEPENDENCIES:
-  - WMZPageController
+  - WMZPageController (~> 1.3.5)
 
 SPEC REPOS:
   trunk:
     - WMZPageController
 
 SPEC CHECKSUMS:
-  WMZPageController: 871d7adbf68f24a1be705f00c8056a733557785a
+  WMZPageController: 07f31659ab149220bd1a7ba86b9377d446b32178
 
-PODFILE CHECKSUM: c4590fcf5fa8a559340afc8fe64867080fc813bf
+PODFILE CHECKSUM: 355f8d6900de24b9d7f179ddfae6aa6075f2d160
 
 COCOAPODS: 1.10.0

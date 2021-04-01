@@ -22,6 +22,7 @@
 - (void)viewDidLayoutSubviews{
     [super viewDidLayoutSubviews];
     self.collectionView.frame = self.view.bounds;
+    NSLog(@"2323");
 }
 
 - (UIScrollView *)getMyScrollView{

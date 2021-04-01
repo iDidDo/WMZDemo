@@ -7,5 +7,5 @@ target 'WMZDemo' do
 
   # Pods for WMZDemo
   
-  pod 'WMZPageController'
+  pod 'WMZPageController', '~> 1.3.5'
 end
