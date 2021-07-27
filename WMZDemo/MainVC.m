@@ -116,7 +116,7 @@
         _navgationView.backgroundColor=UIColor.yellowColor;
         _navgationView.alpha=0.0;
         UILabel *label=[[UILabel alloc]initWithFrame:CGRectMake(0,kNavBarHeight, kScreenW, 44)];
-        label.text=@"我是导航";
+        label.text=@"我是导沃尔沃娃儿二航";
         [_navgationView addSubview:label];
     }
     return _navgationView;
