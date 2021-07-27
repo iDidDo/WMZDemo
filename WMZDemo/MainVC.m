@@ -126,7 +126,6 @@
 {
     if (!_headerView) {
         _headerView=[[UIView alloc]initWithFrame:CGRectMake(0, 0, kScreenW, headerViewHeight)];
-        _headerView.backgroundColor=UIColor.orangeColor;
     }
     return _headerView;
 }
